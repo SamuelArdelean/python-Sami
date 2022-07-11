@@ -54,6 +54,13 @@
    # else:
     #    pass
 
+#print("hello, world")
+
+#print(ord('a'))
+
+#print(chr(97))
+#print("Si Dumnezeu a zis:\"Sa se faca lumina!\"")
+
 
 
 
