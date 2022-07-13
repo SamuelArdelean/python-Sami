@@ -58,7 +58,16 @@ my_var = input('adauga un numar: ')
 try:
     my_int = int(my_var)   #teoretic nu se poate converti string in int
     print(my_int)
+    variabila_nedefinita = None
+    print(variabila_nedefinita)
+except NameError:
+    print('variabila nu este definita')
+    variabila_nedefinita = 0
+except ValueError:
+    print(' eroare de valoare')
 except Exception as e:
     print('exceptie', e)
 else:   # apare doar cand nu sunt exceptii
     print(' nu sunt exceptii')
+finally:
+    print(' s-a rulat programul')
