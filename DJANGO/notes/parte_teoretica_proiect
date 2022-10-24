@@ -1,0 +1,14 @@
+1. django-admin startproject notes
+2. py manage.py startapp document( transmitem lui django care este aplicatia)
+3. in settings.py adaugam la installed_apps- numele aplicatiei
+4. cream un model de database in models.py, o clasa care contine felul in care va arata tabelul
+modelarea aplicatiilor in baza de date se realizeaza prin intermediul fisierului models.py
+5. facem update-ul bazei de date- pt manage.py maemigrations si py manage.py migrate
+6. am creat un user, py manage.py createsuperuser
+7. intram in admin.py si transmitem ca vom folosi baza de date pe care am creato ( from .models import Document)
+8. py manage.py runserver
+9. urmeaza sa creeam felul in care afisam apliatia-> in views.py, importam database model (Document),
+mai apoi cream afisarea, cu functia def editor
+10. mai apoi importam functia def editor in fisierul urls.py si creeam un path pentru partea de afisare
+11. creeam un folder templates unde introducem documentul html pentru afisare
+12. pentru stergerea docuementelor, in views.py creeam functia delete, mai apoi o adaugam in urls.py
