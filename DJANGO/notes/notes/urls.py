@@ -14,12 +14,18 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.contrib.auth.views import LoginView
+from django.urls import path, include
+from django.views.generic.base import TemplateView
 from document.views import editor, delete_document # am importat cele 2 functii din views.py
 
 urlpatterns = [
     path('',editor, name='editor'), # creeam calea, va fi afisata pe prima pagina, nu e nevoie sa adaugam ceva intre ghilimele
     path('delete_document/<int:docid>/', delete_document, name='delete_document'), # la fel
     path('admin/', admin.site.urls),
+    path('accounts/',include("django.contrib.auth.urls")),
+    path('', LoginView.as_view(template_name='editor.html'), name='editor'),
+
+
 
 ]

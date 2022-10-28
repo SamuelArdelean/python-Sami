@@ -48,8 +48,9 @@
 #        total = total + v
 #    return variabila_temp + total
 #    print(' ana are mere')  # asta nu se executa, ca este dupa return
-
-#variabila = suma(1, 2, 3, 4, 5, c=4, d=7, e=9)    #functia args ne permite sa adaugam oricati parametrii dorim, dar acesti parametrii ar trebuii parcursi
+m,
+#variabila = suma(1, 2, 3, 4, 5, c=4, d=7, e=9)    #functia args ne permite sa adaugam oricati parametrii dori
+# dar acesti parametrii ar trebuii parcursi
 #print(variabila)
 
 
@@ -71,7 +72,11 @@
 #    print(' nu sunt exceptii')
 #finally:
 #    print(' s-a rulat programul')
-
+#
 def test_function(first, second, third):
     result = first*3 + second*3 + third*3
     return result
+
+
+
+

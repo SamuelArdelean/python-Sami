@@ -33,5 +33,4 @@ while numar_incercari <= 7:
         break
     print(cuvant, f"mai ai {7 - len(list(litere_incercate))} incercari")
 
-
 print(cuvant)

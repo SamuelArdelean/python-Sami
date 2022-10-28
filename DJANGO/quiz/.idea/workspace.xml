@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4f54d00-92e0-4586-925a-40a342d2f860" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_10/calculator_oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_10/clase_si_obiecte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_10/mosteniri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_10/oop_exercitii1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_10/oop_exercitii2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_10/oop_exercitii3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_11/decoratori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_13_desktop_apps/calculator.pyw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_7/exemplu1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_8/emag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_8/example_html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_8/selen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAPTAMANA_8/web_scrapping_bs4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SCRIPT_PYTHON/5. temafisiere_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SCRIPT_PYTHON/6. emag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SCRIPT_PYTHON/6. example_html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SCRIPT_PYTHON/6. selen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SCRIPT_PYTHON/6. web_scrapping_bs4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SCRIPT_PYTHON/taskuri.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/python-Sami.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/python-Sami.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_1/Tema 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_1/Tema 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_1/spanzuratoarea.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_1/spanzuratoarea.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_3/Functii.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_3/Functii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_3/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_3/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_3/validator_cnp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_3/validator_cnp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_4/Tema_fisiere.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_4/Tema_fisiere.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_4/Tema_fisiere2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_4/Tema_fisiere2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_4/fisiercsv.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_4/fisiercsv.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_4/fisiere.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_4/fisiere.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_4/functii_memory_saving.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_4/functii_memory_saving.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_4/temafisiere.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_4/temafisiere.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAPTAMANA_5/Tema_fisiere.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAPTAMANA_5/Tema_fisiere.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GPQbUhBiEzoEjBKpFogH3FoXUP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/python-Sami/DJANGO",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4f54d00-92e0-4586-925a-40a342d2f860" name="Changes" comment="" />
+      <created>1666287811187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666287811187</updated>
+    </task>
+    <servers />
+  </component>
+</project>
